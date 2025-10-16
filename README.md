@@ -11,7 +11,7 @@ https://dicegame-ur.netlify.app/
 
 - Click **"Roll Dice"** to roll a dice.  
 - The number rolled is added to your **Current points** for that turn.  
-- You can click **"HOLD"** to add the **Current points** to your **General score** and pass the turn to the other player.  
+- You can click **"Hold"** to add the **Current points** to your **General score** and pass the turn to the other player.  
 - If you roll a **1**, you lose all points accumulated in **Current points** for that turn and your turn ends immediately.  
 - The first player to reach a **General score** of **30 points** wins the game.
 
